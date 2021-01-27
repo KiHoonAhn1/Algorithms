@@ -1,5 +1,17 @@
 # 백준
 
+> 나중에 한번 더 풀어볼 문제는 
+
+❓
+
+>  어려워서 풀지 못한 문제는
+
+❌
+
+> 완벽하게 이해했다면 뒤에 
+
+⭕ 같이 붙여주기
+
 
 
 ## 1. 입출력과 사칙연산
@@ -34,17 +46,17 @@
 
 ## 3. for문
 
-| 문제    | 문제 링크                                     | 풀이               | 비고                                            |
-| ------- | --------------------------------------------- | ------------------ | ----------------------------------------------- |
-| 2739번  | [링크](https://www.acmicpc.net/problem/2739)  | [풀이](./2739.py)  | 구구단 만들기!                                  |
-| 10950번 | [링크](https://www.acmicpc.net/problem/10950) | [풀이](./10950.py) | ``int(input())`` 주의                           |
-| 8393번  | [링크](https://www.acmicpc.net/problem/8393)  | [풀이](./8393.py)  | 팩토리얼 만들기                                 |
-| 15552번 | [링크](https://www.acmicpc.net/problem/15552) | [풀이](./15552.py) | ``input`` 대신 ``sys.stdin.readline().split()`` |
-| 2741번  | [링크](https://www.acmicpc.net/problem/2741)  | [풀이](./2741.py)  | 1 ~ N                                           |
-| 2742번  | [링크](https://www.acmicpc.net/problem/2742)  | [풀이](./2742.py)  | N ~ 1                                           |
-| 11021번 | [링크](https://www.acmicpc.net/problem/11021) | [풀이](./11021.py) | f'String 쓰면 쉽다                              |
-| 11022번 | [링크](https://www.acmicpc.net/problem/11022) | [풀이](./11022.py) | 11021번 문제와 비슷                             |
-| 2438번  | [링크](https://www.acmicpc.net/problem/2438)  | [풀이](./2438.py)  | 별 찍기                                         |
-| 2439번  | [링크](https://www.acmicpc.net/problem/2439)  | [풀이](./2439.py)  | 별 찍기2 / ``end=""``                           |
-| 10871번 | [링크](https://www.acmicpc.net/problem/10871) | [풀이](./10871.py) | 배열!                                           |
+| 문제     | 문제 링크                                     | 풀이               | 비고                                            |
+| -------- | --------------------------------------------- | ------------------ | ----------------------------------------------- |
+| 2739번   | [링크](https://www.acmicpc.net/problem/2739)  | [풀이](./2739.py)  | 구구단 만들기!                                  |
+| 10950번  | [링크](https://www.acmicpc.net/problem/10950) | [풀이](./10950.py) | ``int(input())`` 주의                           |
+| 8393번   | [링크](https://www.acmicpc.net/problem/8393)  | [풀이](./8393.py)  | 팩토리얼 만들기                                 |
+| 15552번❓ | [링크](https://www.acmicpc.net/problem/15552) | [풀이](./15552.py) | ``input`` 대신 ``sys.stdin.readline().split()`` |
+| 2741번   | [링크](https://www.acmicpc.net/problem/2741)  | [풀이](./2741.py)  | 1 ~ N                                           |
+| 2742번   | [링크](https://www.acmicpc.net/problem/2742)  | [풀이](./2742.py)  | N ~ 1                                           |
+| 11021번  | [링크](https://www.acmicpc.net/problem/11021) | [풀이](./11021.py) | f'String 쓰면 쉽다                              |
+| 11022번  | [링크](https://www.acmicpc.net/problem/11022) | [풀이](./11022.py) | 11021번 문제와 비슷                             |
+| 2438번   | [링크](https://www.acmicpc.net/problem/2438)  | [풀이](./2438.py)  | 별 찍기                                         |
+| 2439번   | [링크](https://www.acmicpc.net/problem/2439)  | [풀이](./2439.py)  | 별 찍기2 / ``end=""``                           |
+| 10871번❓ | [링크](https://www.acmicpc.net/problem/10871) | [풀이](./10871.py) | 배열!                                           |
 
