@@ -1,1 +1,2 @@
-print('hello')
+A = input()
+print(ord(A))
