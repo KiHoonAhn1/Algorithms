@@ -141,11 +141,22 @@
 | 2581번   | [링크](https://www.acmicpc.net/problem/2581)  | [풀이](./2581.py)  | 필요 없으면 중간에 continue로 벗어나기 |
 | 11643번  | [링크](https://www.acmicpc.net/problem/11653) | [풀이](./11653.py) | 적절한 break                           |
 | 🌟🌟1929번 | [링크](https://www.acmicpc.net/problem/1929)  | [풀이](./1929.py)  | 에라토스테네스의 체                    |
-| 4948번   | [링크](https://www.acmicpc.net/problem/4948)  | [풀이](./4948.py)  | 에라토스테네스의 체2                   |
-| 9020번   | [링크](https://www.acmicpc.net/problem/9020)  | [풀이](./9020.py)  |                                        |
-|          |                                               |                    |                                        |
-|          |                                               |                    |                                        |
-|          |                                               |                    |                                        |
-|          |                                               |                    |                                        |
-|          |                                               |                    |                                        |
+| 🌟4948번  | [링크](https://www.acmicpc.net/problem/4948)  | [풀이](./4948.py)  | 에라토스테네스의 체2                   |
+| 🌟9020번  | [링크](https://www.acmicpc.net/problem/9020)  | [풀이](./9020.py)  | 시간 초과가 제일 어렵다                |
+| 1085번   | [링크](https://www.acmicpc.net/problem/1085)  | [풀이](./1085.py)  | 내장함수 사용하면 쉬운 문제            |
+| 3009번   | [링크](https://www.acmicpc.net/problem/3009)  | [풀이](./3009.py)  | 쉬움                                   |
+| 4153번   | [링크](https://www.acmicpc.net/problem/4153)  | [풀이](./4153.py)  | 조건 확인                              |
+| 3053번   | [링크](https://www.acmicpc.net/problem/3053)  | [풀이](./3053.py)  | 유클리드 기하학과 택시 기하학          |
+| 1002번   | [링크](https://www.acmicpc.net/problem/1002)  | [풀이](./1002.py)  | break 가려서 쓰자                      |
+
+ 
+
+## 10. 재귀
+
+| 문제      | 문제 링크                                     | 풀이               | 비고                        |
+| --------- | --------------------------------------------- | ------------------ | --------------------------- |
+| 10872번   | [링크](https://www.acmicpc.net/problem/10872) | [풀이](./10872.py) | 팩토리얼                    |
+| 10870번   | [링크](https://www.acmicpc.net/problem/10870) | [풀이](./10870.py) | 피보나치                    |
+| 🌟🌟2447번  | [링크](https://www.acmicpc.net/problem/2447)  | [풀이](./2447.py)  | 어렵다... 고도의 for문 사용 |
+| 🌟🌟11729번 | [링크](https://www.acmicpc.net/problem/11729) | [풀이](./11729.py) | 하노이탑 // 잘 모르겠다...  |
 
