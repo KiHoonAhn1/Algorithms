@@ -186,5 +186,5 @@
 | 11650번 | [링크](https://www.acmicpc.net/status?user_id=gihun4&problem_id=11650&from_mine=1) | [풀이](./11650.py) | 범위가 100,000이라 (NlogN) / lambda 활용  |
 | 11651번 | [링크](https://www.acmicpc.net/problem/11651)                | [풀이](./11651.py) | 11650번에서 x, y만 반대                   |
 | 1181번  | [링크](https://www.acmicpc.net/problem/1181)                 | [풀이](./1181.py)  | lambda                                    |
-|         |                                                              |                    |                                           |
+| 10814번 | [링크](https://www.acmicpc.net/submit/10814)                 | [풀이](./10814.py) | 출력 주의                                 |
 
