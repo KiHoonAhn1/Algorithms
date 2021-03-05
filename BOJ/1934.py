@@ -1,9 +1,7 @@
-
-# 최대공약수
-'''
 T = int(input())
 for tc in range(T):
     A, B = map(int, input().split())
+    result = A*B
     remain = 0
     while True:
         remain = A % B
@@ -11,6 +9,4 @@ for tc in range(T):
             break
         A = B
         B = remain
-    print(B)
-'''
-
+    print(round(result/B))
