@@ -1,23 +1,19 @@
-# N = int(input())
-# cnt_arr = []
+import sys
 
-# def meeting(s, e, cnt):
-#     for i in range(N):
-#         if e+1 == s_arr[i]:
-#             cnt += 1
-#             meeting(s_arr[i], e_arr[i], cnt)
-#             cnt_arr.append(cnt)
-#             cnt -= 1
-#     return cnt_arr
+N = int(sys.stdin.readline())
+arr = [[0, 0] for _ in range(N)]
+for i in range(N):
+    s, e = map(int, sys.stdin.readline().split())
+    arr[i][0] = s
+    arr[i][1] = e
 
+arr = sorted(arr, key = lambda x : (x[1], x[0]))
 
-# s_arr, e_arr = [], []
-# for _ in range(N):
-#     s, e = map(int, input().split())
-#     s_arr.append(s)
-#     e_arr.append(e)
-# for i in range(N):
-#     meeting(s_arr[i], e_arr[i], 1)
-# print(max(cnt_arr))
+cnt = 1
+end_time = arr[0][1]
+for j in range(1, N):
+    if arr[j][0] >= end_time:
+        cnt += 1
+        end_time = arr[j][1]
 
-N = int(input())
+print(cnt)
