@@ -7,6 +7,9 @@ for i in range(N):
 
 result = 0
 idx = 3
+
+
+
 for i in range(N):
     minPrice = 1000
     for j in range(3):
