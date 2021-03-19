@@ -6,17 +6,12 @@ for i in range(N):
     color[i] = (list(map(int, sys.stdin.readline().split())))
 
 result = 0
-idx = 3
 
-for i in range(N):
-    minPrice = 1000
+for i in range(1, N):
+    minNum = 1000
     for j in range(3):
-        if color[i][j] < minPrice:
-            if idx == j:
-                pass
-            else:
-                minPrice = color[i][j]
-                idx = j
-    result += minPrice
-
-print(result)
+            color[i][j] = min(color[i][j]+color[i-1][j-1], color[i][j]+color[i-1][j-2])
+if N == 1:
+    print(min(color[i]))
+else:
+    print(min(color[N-1]))
