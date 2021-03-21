@@ -214,9 +214,9 @@
 | 🌟1904번 | [01타일](https://www.acmicpc.net/problem/1904)           | [풀이](./1904.py) | 점화식 dp[i] = dp[i-1] + dp[i-2] |          |
 | 9461번  | [파도반 수열](https://www.acmicpc.net/problem/9461)      | [풀이](./9461.py) | 규칙을 찾자                      | 21/03/09 |
 | 1149번  | [RGB 거리](https://www.acmicpc.net/problem/1149)         | [풀이](./1149.py) | 최소를 더해간다                  | 21/03/19 |
-|         |                                                          |                   |                                  |          |
-|         |                                                          |                   |                                  |          |
-|         |                                                          |                   |                                  |          |
+| 1932번  | [정수 삼각형](https://www.acmicpc.net/problem/1932)      | [풀이](./1932.py) | 위 문제 방식 차용                | 21/03/19 |
+| 2579번  | [계단 오르기](https://www.acmicpc.net/problem/2579)      | [풀이](./2579.py) | 규칙 찾아 더해주기               | 21/03/21 |
+| 1463번  | [1로 만들기](https://www.acmicpc.net/problem/1463)       | [풀이](./1463.py) | 반례를 찾아 min                  | 21/03/21 |
 |         |                                                          |                   |                                  |          |
 |         |                                                          |                   |                                  |          |
 |         |                                                          |                   |                                  |          |
