@@ -1,3 +1,4 @@
+# 단순한 풀이
 '''
 # N, M, K를 공백으로 구분하여 입력받기
 n, m, k = map(int, input().split())
@@ -23,6 +24,7 @@ while True:
 
 print(result) # 최종 답안 출력
 '''
+
 # N, M, K를 공백으로 구분하여 입력받기
 n, m, k = map(int, input().split())
 # N개의 수를 공백으로 구분하여 입력받기
