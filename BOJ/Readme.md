@@ -185,7 +185,7 @@
 | 1427번  | [소트인사이드](https://www.acmicpc.net/problem/1427)         | [풀이](./1427.py)  | 내장함수 쓰면 쉬움                        |
 | 11650번 | [좌표 정렬](https://www.acmicpc.net/status?user_id=gihun4&problem_id=11650&from_mine=1) | [풀이](./11650.py) | 범위가 100,000이라 (NlogN) / lambda 활용  |
 | 11651번 | [좌표 정렬2](https://www.acmicpc.net/problem/11651)          | [풀이](./11651.py) | 11650번에서 x, y만 반대                   |
-| 1181번  | [단어 정렬](https://www.acmicpc.net/problem/1181)            | [풀이](./1181.py)  | lambda                                    |
+| 🌟1181번 | [단어 정렬](https://www.acmicpc.net/problem/1181)            | [풀이](./1181.py)  | lambda                                    |
 | 10814번 | [나이순 정렬](https://www.acmicpc.net/submit/10814)          | [풀이](./10814.py) | 출력 주의                                 |
 
 
@@ -198,7 +198,7 @@
 | 15650번  | [N과 M(2)](https://www.acmicpc.net/problem/15650) | [풀이](./15650.py) | 정렬된 것만 내보내줬다       |      |
 | 15651번  | [N과 M(3)](https://www.acmicpc.net/problem/15651) | [풀이](./15651.py) | 앞서 했던 방식이라 괜찮음    |      |
 | 🌟15652번 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | [풀이](./15652.py) | sorted 말고 다른 방식을 찾음 |      |
-|          |                                                   |                    |                              |      |
+| 9663번   |                                                   |                    |                              |      |
 |          |                                                   |                    |                              |      |
 |          |                                                   |                    |                              |      |
 |          |                                                   |                    |                              |      |
@@ -218,7 +218,7 @@
 | 2579번  | [계단 오르기](https://www.acmicpc.net/problem/2579)      | [풀이](./2579.py)  | 규칙 찾아 더해주기               | 21/03/21 |
 | 1463번  | [1로 만들기](https://www.acmicpc.net/problem/1463)       | [풀이](./1463.py)  | 반례를 찾아 min                  | 21/03/21 |
 | 10844번 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)    | [풀이](./10844.py) | 점화식 만들기                    | 21/03/23 |
-| 2156번  | [포도주 시식](https://www.acmicpc.net/problem/2156)      | [풀이](./2156.py)  | 계단 오르기에 조건 추가          | 21/03/23 |
+| 🌟2156번 | [포도주 시식](https://www.acmicpc.net/problem/2156)      | [풀이](./2156.py)  | 계단 오르기에 조건 추가          | 21/03/23 |
 |         |                                                          |                    |                                  |          |
 |         |                                                          |                    |                                  |          |
 |         |                                                          |                    |                                  |          |
@@ -235,7 +235,7 @@
 | 11047번 | [동전 0](https://www.acmicpc.net/problem/11047)       | [풀이](./11047.py) | 특별한 반례는 없었다   |          |
 | 1931번  | [회의실 배정](https://www.acmicpc.net/problem/1931)   | [풀이](./1931.py)  | 정렬을 잘 해보자       | 21/03/09 |
 | 11399번 | [ATM](https://www.acmicpc.net/problem/11399)          | [풀이](./11399.py) | 오랜만에 쉬운 문제     | 21/03/10 |
-| 1541번  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이](./1541.py)  | split('-'), split('+') | 21/03/11 |
+| 🌟1541번 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이](./1541.py)  | split('-'), split('+') | 21/03/11 |
 | 13305번 | [주유소](https://www.acmicpc.net/problem/13305)       | [풀이](./13305.py) | 난이도 괜찮음          | 21/03/13 |
 
 
