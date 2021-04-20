@@ -16,8 +16,8 @@ def quick_sort(arr, start, end):
         else:
             arr[left], arr[right] = arr[right], arr[left]
 
-        quick_sort(arr, start, right-1)
-        quick_sort(arr, right+1, end)
+    quick_sort(arr, start, right-1)
+    quick_sort(arr, right+1, end)
 
 T = int(input())
 for tc in range(1, T+1):
